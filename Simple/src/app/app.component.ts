@@ -9,4 +9,5 @@ export class AppComponent {
   title = 'Github 123';
   myName: string = "Abobakar-Sadeeq";
   age: number = 26;
+  myName12312: string = "Abobobbbb";
 }
